@@ -1,0 +1,154 @@
+  [
+  {
+    "kind": "button",
+    "controlID": "Ali-A",
+    "position": [
+      {
+        "size": "large",
+        "x": 1,
+        "y": 3,
+        "width": 17,
+        "height": 15
+      },
+      {
+        "size": "small",
+        "x": 7,
+        "y": 30,
+        "width": 14,
+        "height": 9
+      },
+      {
+        "size": "medium",
+        "width": 19,
+        "height": 11,
+        "x": 1,
+        "y": 13
+      }
+    ],
+    "keyCode": 65,
+    "text": "Ali-A",
+    "cost": 50,
+    "tooltip": "Ali-A",
+    "textSize": "14",
+    "textColor": "#00a3ff",
+    "accentColor": "#00a3ff",
+    "focusColor": "#070606",
+    "borderColor": "#00a3ff",
+    "backgroundColor": "#070606",
+    "backgroundImage": "https://i.ytimg.com/vi/i8nJAz_n7go/maxresdefault.jpg"
+  },
+  {
+    "kind": "button",
+    "controlID": "Eduardo Vargas",
+    "position": [
+      {
+        "size": "small",
+        "x": 7,
+        "y": 20,
+        "width": 14,
+        "height": 9
+      },
+      {
+        "size": "medium",
+        "x": 1,
+        "y": 1,
+        "width": 19,
+        "height": 11
+      },
+      {
+        "size": "large",
+        "x": 19,
+        "y": 3,
+        "width": 19,
+        "height": 15
+      }
+    ],
+    "keyCode": 86,
+    "text": "Eduardo Vargas",
+    "cost": 100,
+    "tooltip": "GOAT",
+    "textSize": "14",
+    "textColor": "#0029ff",
+    "accentColor": "#ffffff",
+    "focusColor": "#0029ff",
+    "borderColor": "#0029ff",
+    "backgroundColor": "#eb1010",
+    "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/7/7f/2017_Confederation_Cup_-_CMRCHI_-_Eduardo_Vargas.jpg"
+  },
+  {
+    "kind": "button",
+    "controlID": "Paul Smyth ",
+    "position": [
+      {
+        "size": "large",
+        "x": 39,
+        "y": 3,
+        "width": 19,
+        "height": 15
+      },
+      {
+        "size": "medium",
+        "width": 20,
+        "height": 11,
+        "x": 23,
+        "y": 13
+      },
+      {
+        "size": "small",
+        "x": 7,
+        "y": 10,
+        "width": 14,
+        "height": 9
+      }
+    ],
+    "keyCode": 80,
+    "text": "Paul Smyth",
+    "cost": 150,
+    "tooltip": "Future Ballon d'Or Winner",
+    "textSize": "14",
+    "textColor": "#000000",
+    "accentColor": "#ff00c2",
+    "focusColor": "#000000",
+    "borderColor": "#000000",
+    "backgroundColor": "#ff00c2",
+    "backgroundImage": "https://d3tbg3dlyesi70.cloudfront.net/420x640_/media/12850/paul_smyth_cardiff_05.jpg"
+  },
+  {
+    "kind": "button",
+    "controlID": "Run DMC",
+    "position": [
+      {
+        "size": "small",
+        "x": 7,
+        "y": 0,
+        "width": 14,
+        "height": 9
+      },
+      {
+        "size": "medium",
+        "x": 23,
+        "y": 1,
+        "width": 20,
+        "height": 11
+      },
+      {
+        "size": "large",
+        "x": 59,
+        "y": 3,
+        "width": 19,
+        "height": 15
+      }
+    ],
+    "keyCode": 82,
+    "text": "Run DMC",
+    "cost": 200,
+    "tooltip": "RONaldo_DMC",
+    "textSize": "14",
+    "textColor": "#fdfdfd",
+    "accentColor": "#ff0000",
+    "focusColor": "#000000",
+    "borderColor": "#ff0000",
+    "backgroundColor": "#000000",
+    "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Run-DMC_Logo.svg/2000px-Run-DMC_Logo.svg.png"
+  }
+]
